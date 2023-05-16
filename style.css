@@ -1,7 +1,16 @@
+header {
+    background: #007dba;
+    color: #ff0000;
+}
+
 body {
-    background: #f3f3f3;
+    background: #e9e7e7;
 }
 
 h1 {
     color: #ff0000;
+}
+
+footer {
+    background: #007dba;
 }
